@@ -8,14 +8,13 @@
 - **Dự báo giá**: ARIMA, LSTM, Transformer (tự huấn luyện trên dữ liệu thực tế).
 - **XAI**: Giải thích dự báo bằng SHAP, LIME, Attention (Transformer).
 - **Phân tích tài chính & cảm xúc**: Tự động gửi báo cáo tài chính và tin tức cho AI phân tích, đưa ra khuyến nghị Mua/Bán/Giữ.
-- **Hỗ trợ đa thị trường**: Cổ phiếu Việt Nam, tiền điện tử, chỉ số thế giới, giá vàng, tỷ giá ngoại tệ.
+- **Hỗ trợ đa thị trường**: Cổ phiếu Việt Nam, tiền điện tử, giá vàng, tỷ giá ngoại tệ,...
 - **Tải dữ liệu dự báo**: Xuất file CSV kết quả dự báo.
-- **Tích hợp Ollama API**: Phân tích tài chính và giải thích XAI bằng mô hình AI lớn.
+- **Tích hợp Ollama API**: Phân tích tài chính và giải thích XAI bằng mô hình AI.
 
 ## Yêu cầu hệ thống
 
 - Python 3.10+
-- Windows (khuyến nghị)
 - Đã cài đặt [Ollama](https://ollama.com/) và chạy API tại `http://localhost:11434`
 - Trình duyệt Edge (cho tính năng chụp ảnh biểu đồ)
 
