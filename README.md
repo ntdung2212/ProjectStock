@@ -60,5 +60,3 @@
 - Một số tính năng (chụp ảnh biểu đồ) yêu cầu Edge WebDriver.
 
 ---
-
-**This is a financial analysis tool for research and educational purposes only. Investment decisions should be made after thorough research and consultation with a
