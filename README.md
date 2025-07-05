@@ -56,7 +56,7 @@
 ## Lưu ý
 
 - Ứng dụng chỉ mang tính chất tham khảo, không phải là lời khuyên đầu tư.
-- Để sử dụng phân tích AI, cần chạy Ollama API với mô hình tương thích (ví dụ: gemma3).
+- Để sử dụng phân tích AI, cần chạy Ollama API với mô hình chấp nhận cả text và image là input (ví dụ: gemma3), mô hình kích thước càng lớn thì kết quả càng tốt.
 - Một số tính năng (chụp ảnh biểu đồ) yêu cầu Edge WebDriver.
 
 ---
