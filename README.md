@@ -23,7 +23,7 @@
 
 1. **Clone dự án:**
     ```
-    git clone https://github.com/yourusername/ProjectStock.git
+    git clone https://github.com/ntdung2212/ProjectStock.git
     cd ProjectStock
     ```
 
