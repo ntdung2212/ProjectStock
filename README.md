@@ -60,3 +60,11 @@
 - Một số tính năng (chụp ảnh biểu đồ) yêu cầu Edge WebDriver.
 
 ---
+
+## Đóng góp
+
+Mọi đóng góp, báo lỗi hoặc ý tưởng mới đều được hoan nghênh! Hãy tạo issue hoặc pull request.
+
+## Bản quyền
+
+MIT License. Vui lòng ghi nguồn khi sử dụng lại mã nguồn này.
