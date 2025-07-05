@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+numpy
+tensorflow
+keras
+pmdarima
+scikit-learn
+shap
+lime
+selenium
+webdriver-manager
+vnstock
