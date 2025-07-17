@@ -400,10 +400,11 @@ def financial_analysis_with_ollama(income_statement_df, organ_name, report_perio
     - str: Phân tích của mô hình AI.
     """
     period_text = "recent quarters" if report_period == "quarter" else "recent years"
-    if income_statement_df:
+    if income_statement_df is not None and not income_statement_df.empty:
         income_text = income_statement_df.to_csv(index=False)
     else:
         income_text = "Không có dữ liệu"
+
     
     price_text = price_data.to_csv(index=False)
 
